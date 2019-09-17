@@ -1,0 +1,2 @@
+//Git allows developer to back to their original code by allwoing multiple checkpoint so if anything goes wrong they can easily retrieve it. 
+//Git hub is a code sharing website where you can save your coding history and also be able to share it with others. This needs to be doing by creating repositery at Github.

@@ -1,0 +1,5 @@
+yes, that way files get added. It shows you the changed made.
+
+
+Yes it does fail in node mode. beacuse run node will wipe your changes. 
+To go back hit control c twice.
